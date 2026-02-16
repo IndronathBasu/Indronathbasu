@@ -3,7 +3,7 @@ I am currently studying in college .<br>I am in my first year of B.tech in Compu
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rimil0bx) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/RimilBhattacharya) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rbhstorm8@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]((https://www.instagram.com/thats_indro/)) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/indronathbasu) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:indronath.basu@gmail.com) 
 
 ## 💻 Tech Stack:
 <div align="center">
