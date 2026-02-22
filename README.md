@@ -1,5 +1,9 @@
 # 💫 About Me:
-I am currently studying in college .<br>I am in my first year of B.tech in Computer Science and Engineering .<br>I am a Deep learning enthusiast.<br>
+A driven student at SRM Institute of Science and Technology, passionate about AI/ML, especially
+Computer Vision, NLP, and Reinforcement Learning. Skilled in problem-solving, critical thinking,
+and exploring AI applications. Also explored the field of cybersecurity, focusing on secure
+system design and threat mitigation. Eager to collaborate, learn, and innovate in AI and
+technology.
 
 
 ## 🌐 Socials:
