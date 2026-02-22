@@ -1,9 +1,9 @@
 # 💫 About Me:
-A driven student at SRM Institute of Science and Technology, passionate about AI/ML, especially
-Computer Vision, NLP, and Reinforcement Learning. Skilled in problem-solving, critical thinking,
-and exploring AI applications. Also explored the field of cybersecurity, focusing on secure
-system design and threat mitigation. Eager to collaborate, learn, and innovate in AI and
-technology.
+AI/ML enthusiast with a strong focus on Computer Vision and applied Machine Learning, experienced in building real-time, data-driven systems during my internship at a leading automotive organization.
+<dr>
+I have hands-on experience developing AI-powered surveillance systems for live people tracking using deep learning and computer vision, as well as automotive safety analytics solutions involving crash analysis, geospatial heat maps, and damage cost estimation. My work emphasizes real-world deployment, scalability, and performance optimization rather than just academic experimentation.
+<dr>
+I am particularly interested in Computer Vision, Deep Learning, Intelligent Video Analytics, and Automotive AI, and I enjoy working on projects that solve practical problems using data and AI. Currently seeking opportunities to learn, collaborate, and grow in AI/ML, Computer Vision, or Data Science focused roles.
 
 
 ## 🌐 Socials:
