@@ -1,4 +1,4 @@
-<td><img src="./avi-ascii.svg" width="370"></td>
+<td><img src="avi-ascii.svg" width="370"></td>
 
 # 💫 About Me:
 AI/ML enthusiast with a strong focus on Computer Vision and applied Machine Learning, experienced in building real-time, data-driven systems during my internship at a leading automotive organization.
