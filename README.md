@@ -1,5 +1,3 @@
-<td><img src="avi-ascii.svg" width="370"></td>
-
 # 💫 About Me:
 AI/ML enthusiast with a strong focus on Computer Vision and applied Machine Learning, experienced in building real-time, data-driven systems during my internship at a leading automotive organization.
 <br>
@@ -9,6 +7,7 @@ I have hands-on experience developing AI-powered surveillance systems for live p
 <br>
 I am particularly interested in Computer Vision, Deep Learning, Intelligent Video Analytics, and Automotive AI, and I enjoy working on projects that solve practical problems using data and AI. Currently seeking opportunities to learn, collaborate, and grow in AI/ML, Computer Vision, or Data Science focused roles.
 
+<td><img src="avi-ascii.svg" width="370"></td>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/thats_indro/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/indronathbasu) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:indronath.basu@gmail.com) 
